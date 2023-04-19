@@ -10,7 +10,7 @@ This gives a transparent overview over our application. Furthermore, all of our 
 
 In this chapter we look at the infrastructure of our application. This might be a good start if you want to train and test your own ML models.
 
-![Tracking Detector Infrastructure](./assets/TrackingDetectorInfra.jpg)
+![Tracking Detector Infrastructure](assets/TrackingDetectorInfra.jpg)
 
 ### Components
 
